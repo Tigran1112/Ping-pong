@@ -17,5 +17,7 @@ A simple Ping-Pong game implemented in C++ using SFML (Simple and Fast Multimedi
 
 ## Installation
 1. Clone the repository.
-   ```bash
+  ```bash
    git clone https://github.com/Tigran1112/Ping-pong.git
+  ```
+2. Run Exe or Out File
