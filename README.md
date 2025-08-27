@@ -15,9 +15,9 @@ A simple Ping-Pong game implemented in C++ using SFML (Simple and Fast Multimedi
   - Move Left: `Left Arrow`
   - Move Right: `Right Arrow`
 
-## Installation
-1. Clone the repository.
-  ```bash
-   git clone https://github.com/Tigran1112/Ping-pong.git
-  ```
-2. Run Exe or Out File
+## ScreenShots
+![screen1](/img/s1.png)
+![screen2](/img/s2.png)
+![screen3](/img/s3.png)
+![screen4](/img/s4.png)
+![screen5](/img/s5.png)
